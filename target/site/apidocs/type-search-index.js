@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"servlets","l":"BooleanFunctionalInterface"},{"p":"servlets","l":"CalculatePhaseOfMoonServlet"},{"p":"servlets","l":"HistoryPhaseOfMoonServlet"},{"p":"model","l":"Moon"},{"p":"model","l":"PhaseException"}]

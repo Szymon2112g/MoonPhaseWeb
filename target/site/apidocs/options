@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Szymon2112g/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar;C:/Users/Szymon2112g/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar;C:/Users/Szymon2112g/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Szymon2112g/Desktop/JAVA PROJEKTY DO SZKOLY/MoonPhaseWeb/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Szymon2112g/Desktop/JAVA PROJEKTY DO SZKOLY/MoonPhaseWeb/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MoonPhaseWeb 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Szymon2112g/Desktop/JAVA PROJEKTY DO SZKOLY/MoonPhaseWeb/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'MoonPhaseWeb 1.0-SNAPSHOT API'

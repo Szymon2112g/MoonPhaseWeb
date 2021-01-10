@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="modelTest.MoonTest" time="0.167" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.8+10-LTS"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.8\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhaseWeb"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="PL"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhaseWeb"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.8+10-LTS"/>
+    <property name="netbeans.deploy" value="true"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\SZYMON~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-12.1\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\NetBeans-12.1\netbeans\java\maven\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1250"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\app\Szymon2112g\product\18.0.0\dbhomeXE\bin;d:\WinAVR-20100110\bin;d:\WinAVR-20100110\utils\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Xoreax\IncrediBuild;C:\Gradle\gradle-5.6.1\bin;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Program Files (x86)\GitExtensions\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;d:\NVPACK17\android-sdk-windows\extras\android\support;d:\NVPACK17\android-sdk-windows\build-tools;d:\NVPACK17\android-sdk-windows\platform-tools;d:\NVPACK17\android-sdk-windows\tools;d:\NVPACK17\gradle-4.1-rc-2\bin;d:\NVPACK17\apache-ant-1.8.2\bin;d:\NVPACK17\jdk1.8.0_77\bin;d:\NVPACK17\android-ndk-r15c;D:\NVPACK14\gradle-2.2.1\bin;D:\NVPACK14\apache-ant-1.8.2\bin;D:\NVPACK14\android-ndk-r10e;D:\NVPACK14\android-sdk-windows\extras\android\support;D:\NVPACK14\android-sdk-windows\build-tools;D:\NVPACK14\android-sdk-windows\platform-tools;D:\NVPACK14\android-sdk-windows\tools;d:\NVPACK\android-sdk-windows\extras\android\support;d:\NVPACK\android-sdk-windows\build-tools;d:\NVPACK\android-sdk-windows\platform-tools;d:\NVPACK\android-sdk-windows\tools;d:\NVPACK\gradle-4.4.1\bin;d:\NVPACK\android-ndk-r18b;C:\Users\Szymon2112g\AppData\Local\Microsoft\WindowsApps;C:\Users\Szymon2112g\AppData\Roaming\npm;C:\Users\Szymon2112g\AppData\Local\GitHubDesktop\bin&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;&#13;;C:\Users\Szymon2112g\.dotnet\tools;C:\Users;."/>
+    <property name="maven.conf" value="C:\Program Files\NetBeans-12.1\netbeans\java\maven\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\NetBeans-12.1\netbeans\java\maven\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Szymon2112g"/>
+    <property name="user.timezone" value="Europe/Belgrade"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="Szymon2112g"/>
+    <property name="java.class.path" value="C:\Program Files\NetBeans-12.1\netbeans\java\maven\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dnetbeans.deploy=true -Dmaven.ext.class.path=C:\Program Files\NetBeans-12.1\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 package"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.8"/>
+    <property name="user.language" value="pl"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\NetBeans-12.1\netbeans\java\maven\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="calculatePhaseOfMoonShouldThrowExceptionIfDateIsNull" classname="modelTest.MoonTest" time="0.036"/>
+  <testcase name="calculatePhaseOfMoonShouldBeBetweenZeroAndOne{String}[1]" classname="modelTest.MoonTest" time="0.061"/>
+  <testcase name="calculatePhaseOfMoonShouldBeBetweenZeroAndOne{String}[2]" classname="modelTest.MoonTest" time="0"/>
+  <testcase name="claculatePhaseOfMoonShouldReturnSpecificValueForSpecificDate" classname="modelTest.MoonTest" time="0.005"/>
+  <testcase name="getHistoryShouldHaveDataAfterCallCalculatePhaseOfMoon" classname="modelTest.MoonTest" time="0"/>
+  <testcase name="getHistoryShouldBeEmptyIfWeDontCallCalculatePhaseOfMoon" classname="modelTest.MoonTest" time="0"/>
+</testsuite>

@@ -1,0 +1,5 @@
+model\Moon.class
+servlets\BooleanFunctionalInterface.class
+servlets\HistoryPhaseOfMoonServlet.class
+servlets\CalculatePhaseOfMoonServlet.class
+model\PhaseException.class
